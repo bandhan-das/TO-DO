@@ -58,6 +58,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your_linkedin](https://www.linkedin.com/in/bandhan-das-bd/)
+Your Name - [@linkedin](https://www.linkedin.com/in/bandhan-das-bd/)
 
 Project Link: [https://github.com/bandhan-das/TO-DO](https://github.com/bandhan-das/TO-DO)
